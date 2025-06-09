@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro", "Cronometro\Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jugador_Cansado", "Jugador_Cansado\Jugador_Cansado.csproj", "{AD9932CF-6102-45F8-A374-9506DEF90AE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bicicletas-Autos-Camiones", "Bicicletas-Autos-Camiones\Bicicletas-Autos-Camiones.csproj", "{AF315DD1-8520-4EF5-AD23-A4BE4878CC47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AD9932CF-6102-45F8-A374-9506DEF90AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD9932CF-6102-45F8-A374-9506DEF90AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD9932CF-6102-45F8-A374-9506DEF90AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF315DD1-8520-4EF5-AD23-A4BE4878CC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF315DD1-8520-4EF5-AD23-A4BE4878CC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF315DD1-8520-4EF5-AD23-A4BE4878CC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF315DD1-8520-4EF5-AD23-A4BE4878CC47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
